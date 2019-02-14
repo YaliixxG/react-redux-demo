@@ -1,2 +1,2 @@
-# react-redux-demo
-redux的应用demo
+# react-router-demo
+react-router的应用demo
